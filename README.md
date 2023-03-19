@@ -3,7 +3,7 @@
 All installations require a central workspace known as the chef-repo. This is a place where primitive objects--cookbooks, roles, environments, data bags, and chef-repo configuration files--are stored and managed.
 hihh
 The chef-repo should be kept under version control, such as [git](https://git-scm.com/), and then managed as if it were source code.
-hi
+hihi
 ## Knife Configuration
 
 Knife is the [command line interface](https://docs.chef.io/workstation/knife/) for Chef. The chef-repo contains a .chef directory (which is a hidden directory by default) in which the knife configuration file (config.rb) is located. This file contains configuration settings for the chef-repo.
